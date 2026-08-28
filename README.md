@@ -3,18 +3,18 @@
 An interactive web application to plan and visualize world tour dates.
 The project allows users to add shows with city, country, date, and venue, displaying them in a sorted list and on an interactive world map.
 
+![Texto alternativo da imagem](./assets/imagem.png)
 
 Each show is stored in Firebase Firestore, enabling real-time updates and synchronization.
 
 ✨ Features <br>
-➕ Add new tour dates
-📅 Automatic date ordering
-🎤 Display of the next show
-⏳ Countdown to the next event
-📍 Interactive world map with markers
-🔢 Total number of scheduled shows
+➕ Add new tour dates <br>
+📅 Automatic date ordering <br>
+🎤 Display of the next show <br>
+⏳ Countdown to the next event <br>
+📍 Interactive world map with markers <br>
+🔢 Total number of scheduled shows <br>
 ☁️ Real-time database using Firebase Firestore
-
 
 
 ## 🛠 Technologies
