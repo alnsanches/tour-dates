@@ -5,10 +5,10 @@ The project allows users to add shows with city, country, date, and venue, displ
 
 ![Page Top](https://github.com/alnsanches/tour-dates/blob/main/print1.png)
 
-![Page Down]((https://github.com/alnsanches/tour-dates/blob/main/print2.PNG))
+![Page Down](https://github.com/alnsanches/tour-dates/blob/main/print2.PNG)
 
-🔴 Next Concert
-🟡 Concert Today
+🔴 Next Concert <br>
+🟡 Concert Today <br>
 🟢 Concert Done
 
 Each show is stored in Firebase Firestore, enabling real-time updates and synchronization.
