@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<link rel="stylesheet" href="./stylecss.css">
+
+<title>🔲 I-DLE Tour Dates</title>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="poster">
+<img src="./tourposter.jpg" alt="Tour Poster">
+</div>
+
+<div class="planner">
+
+<h1 class="tourName">🌎 Syncopation World Tour</h1>
+
+<input type="text" id="city" placeholder="City">
+<input type="text" id="country" placeholder="Country">
+<input type="date" id="date">
+<input type="time" id="time" placeholder="Time">
+<input type="text" id="venue" placeholder="Place">
+
+<button id="addBtn" type="button">Add Show</button>
+
+<h2 id="nextShow"></h2>
+<h3 id="counter"></h3>
+
+<ul id="tourList"></ul>
+
+<h2>📌 Tour Map</h2>
+<div id="map"></div>
+
+</div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script type="module" src="teste.js"></script>
+
+</body>
+</html>
