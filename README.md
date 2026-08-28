@@ -6,7 +6,7 @@ The project allows users to add shows with city, country, date, and venue, displ
 
 Each show is stored in Firebase Firestore, enabling real-time updates and synchronization.
 
-✨ Features
+✨ Features <br>
 ➕ Add new tour dates
 📅 Automatic date ordering
 🎤 Display of the next show
