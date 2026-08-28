@@ -5,6 +5,8 @@ The project allows users to add shows with city, country, date, and venue, displ
 
 ![Page Top](https://github.com/alnsanches/tour-dates/blob/main/print1.png)
 
+(ps.: US tour dates was cancelled for particular reasons)
+
 ![Page Down](https://github.com/alnsanches/tour-dates/blob/main/print2.PNG)
 
 🔴 Next Concert <br>
