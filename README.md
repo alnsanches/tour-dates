@@ -3,7 +3,13 @@
 An interactive web application to plan and visualize world tour dates.
 The project allows users to add shows with city, country, date, and venue, displaying them in a sorted list and on an interactive world map.
 
-![Texto alternativo da imagem](./assets/imagem.png)
+![Page Top](https://github.com/alnsanches/tour-dates/blob/main/print1.png)
+
+![Page Down]((https://github.com/alnsanches/tour-dates/blob/main/print2.PNG))
+
+🔴 Next Concert
+🟡 Concert Today
+🟢 Concert Done
 
 Each show is stored in Firebase Firestore, enabling real-time updates and synchronization.
 
